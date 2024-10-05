@@ -1,0 +1,10 @@
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .content {
+    display: flex;
+    gap: 30px;
+  }
+  
